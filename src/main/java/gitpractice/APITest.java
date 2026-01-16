@@ -10,5 +10,13 @@ public class APITest {
 		System.out.println("User1");
 	}
 	
+	@Test
+	public void edituser() {
+		
+		System.out.println("User2");
+	}
+	
+	
+	
 
 }
