@@ -21,5 +21,11 @@ public class UITest {
 		
 		System.out.println("User2");
 	}
+	
+	@Test
+	public void deleteitem2() {
+		
+		System.out.println("User2");
+	}
 
 }
