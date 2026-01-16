@@ -16,6 +16,12 @@ public class APITest {
 		System.out.println("User2");
 	}
 	
+	@Test
+	public void deleteuser() {
+		
+		System.out.println("User1");
+	}
+	
 	
 	
 
